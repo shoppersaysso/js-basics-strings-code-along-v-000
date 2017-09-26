@@ -4,5 +4,9 @@ function currentUser() {
 }
 
 function welcomeMessage() {
+
+}
+
+function excitedWelcomeMessage() {
   
 }
