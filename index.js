@@ -1,12 +1,9 @@
-// Write your code in this file!
-function currentUser() {
-
-}
+const currentUser = 'Grace Hopper';
 
 function welcomeMessage() {
 
 }
 
 function excitedWelcomeMessage() {
-  
+
 }
